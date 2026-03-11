@@ -1,0 +1,7 @@
+div {
+  position: absolute;
+}
+
+div[data-is-checked="true"] {
+  outline: 2px red solid;
+}
