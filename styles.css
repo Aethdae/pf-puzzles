@@ -10,7 +10,3 @@ img[data-is-checked="true"] {
   /* outline: 2px red solid; */
   filter: drop-shadow(0px 0px 25px white);
 }
-img[data-is-checked="false"] {
-  transition: all 0.25s 0.1s;
-  /* outline: 2px red solid; */
-}
