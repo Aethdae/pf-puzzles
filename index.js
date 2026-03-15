@@ -46,6 +46,6 @@ function checkRunes() {
     console.log("hey");
   } else {
     console.log("Failed");
-    setTimeout(checkRunes, 2000);
+    setTimeout(checkRunes, 3500);
   }
 }
